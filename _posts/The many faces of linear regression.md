@@ -1,7 +1,3 @@
----
-dg-publish: true
-dg-home: true
----
 In this article I'll review some basics on linear regression (or to use a better term, *ordinary least squares* (OLS)), show several approaches to solving an OLS problem, and how these connect to ($L_{2}$) regularization techniques.
 * What you already know:
 	* Linear algebra: matrix operations, inner products, vector norm and distance.
