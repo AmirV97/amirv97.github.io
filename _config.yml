@@ -232,7 +232,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/year-archive/"
       type: posts
     values:
       layout: single
@@ -245,13 +245,6 @@ defaults:
   - scope:
       path: ""
       type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
     values:
       layout: single
       author_profile: true
