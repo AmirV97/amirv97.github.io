@@ -6,6 +6,7 @@ tags:
   - math
   - linear_algebra
 ---
+
 In this article I'll review some basics on linear regression (or to use a better term, *ordinary least squares* (OLS)), show several approaches to solving an OLS problem, and how these connect to ($L_{2}$) regularization techniques.
 * What you already know:
 	* Linear algebra: matrix operations, inner products, vector norm and distance.
@@ -378,3 +379,4 @@ In closing, it’s worth remembering that the “line of best fit” we first 'l
 - A way for a new query to "attend" to training data, where the prediction is a weighted sum of known outcomes.
 - The logical outcome of probability theory when we assume errors follow a normal distribution.
 By looking at it from different angles, we uncover insights that carry over to more complex models. Next time you fit a line—whether by solving a formula, running gradient descent, or framing it as a kernel—pause and appreciate how much depth hides in such a simple tool. Often, the clearest path to new ideas starts with mastering the basics.
+-----
