@@ -1,5 +1,5 @@
 ---
-title: 'OLS'
+title: "OLS"
 date: 2025-05-24
 permalink: /posts/2025/05/OLS/
 tags:
