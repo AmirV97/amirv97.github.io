@@ -23,7 +23,7 @@ main:
   - title: "CV"
     url: /cv/
 
- - title: "Studies"
+  - title: "Studies"
     url: /studies/
   # - title: "CV"
   #   url: /cv-json/
