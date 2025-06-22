@@ -346,4 +346,4 @@ compress_html:
     envs: development
 
 # Site Theme
-site theme: dark
+site_theme: dark
