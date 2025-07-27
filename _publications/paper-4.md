@@ -2,7 +2,7 @@
 title: "Deep Conformal Supervision: Leveraging Intermediate Features for Robust Uncertainty Quantification"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /paper-4
 excerpt: 'This paper is about improving the <i>coverage</i> and <i>efficiency</i> of [conformal prediction](https://arxiv.org/abs/2107.07511) for deep neural networks, using novel non-conformity score computation methods. Specifically, the focus is on improving the robustness of medical image classification models (CNNs) via improved <i>uncertainty quantification</i> techniques.'
 date: 2024-10-07
 venue: 'Journal of Imaging Informatics in Medicine'

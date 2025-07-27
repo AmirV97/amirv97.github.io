@@ -2,7 +2,7 @@
 title: "Epidemiological Insights into Diabetic Foot Amputation and its Correlates: A Provincial Study"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /paper-2
 excerpt: 'This paper was one of my first research experiences. My main role was in writing the manuscript, start to finish.'
 date: 2024-01-30
 venue: 'Clinical Medicine Insights: Endocrinology and Diabetes'

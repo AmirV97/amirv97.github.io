@@ -2,7 +2,7 @@
 title: "Prescription patterns and the cost of antihyperglycemic drugs in patients with diabetes mellitus in Iran from 2014 to 2019"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /paper-5
 excerpt: 'This paper extensively analyzes prescription patterns for antihyperglycemic drugs in terms of factors such as physician specialist, time between follow-up sessions, comorbidities, etc., using large scale data directly from Iran Health Insurance (IHI) servers. I was the primary data analyst in this project, performing all steps of data retrieval, cleaning and processing. The analysis included techniques such as [GESD](https://statisticseasily.com/glossario/what-is-generalized-extreme-studentized-deviate-gesd-test/) and [SHAP value](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) usage for intrepreting factors affecting overall prescription costs.'
 date: 2025-03-26
 venue: 'Diabetes Research and Clinical Practice'

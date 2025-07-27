@@ -2,7 +2,7 @@
 title: "Comparison of machine learning models with conventional statistical methods for prediction of percutaneous coronary intervention outcomes: a systematic review and meta-analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /paper-6
 excerpt: 'This paper compares a variety of supervised ML methods against logistic regression in predicting PCI outcomes, in terms of performance. We also extensively assess the models in terms of risk of bias (RoB) due factors such as data leakage and lack of external validation, using the [CHARMS](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001744) and [PROBAST](https://pubmed.ncbi.nlm.nih.gov/30596875/) guidelines.'
 date: 2025-04-23
 venue: 'BMC Cardiovascular Disorders'

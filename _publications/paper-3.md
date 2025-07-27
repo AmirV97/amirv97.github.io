@@ -2,7 +2,8 @@
 title: "Deep Learning‐Based Techniques in Glioma Brain Tumor Segmentation Using Multi‐Parametric MRI: A Review on Clinical Applications and Future Outlooks"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /paper-3
+
 excerpt: 'This paper is a comprehensive review of different approaches for glioma MRI segmentation, cinluding non-deep learning methods. We provide an overall narrative of how this field has evolved (up to and including how transformer architectures are increasingly used here), and mention key studies such as the nnU-net model, among others, diving into key innovations and the reasoning behind a variety o methodologies; we also discuss relevant datasets (e.g., different BraTS versions). I was a co-first author in this work, and wrote the sections focusing on different models and architectures, reading a lot of the literature on glioma segmentation during the literature synthesis and manuscript writing process.'
 date: 2024-07-29
 venue: 'Journal of Magnetic Resonance Imaging'
