@@ -73,13 +73,13 @@ Google Scholar: [https://scholar.google.com/citations?user=Z3xTClQAAAAJ\&hl=en](
   * Computer vision (segmentation, classification), generative models (LLMs, VLMs), uncertainty quantification, self-supervised learning
 * **Medical Imaging**
 
-  * DICOM handling, 3D Slicer, intra-operative ultrasound, MRI segmentation
+  * DICOM handling, 3D Slicer
 * **Data & Statistics**
 
   * SPSS, Pandas, Matplotlib, study design
 * **Visualization & Typesetting**
 
-  * Matplotlib/Plotly, Adobe Illustrator, LaTeX
+  * Matplotlib/Plotly, LaTeX
 
 # Awards
 
