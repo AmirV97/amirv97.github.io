@@ -42,13 +42,13 @@ Google Scholar: [https://scholar.google.com/citations?user=Z3xTClQAAAAJ\&hl=en](
 * **Research Assistant**
 
   * Image-guided Surgery Lab, Tehran University of Medical Sciences, 2023 – Present, Tehran
-  * Led glioma segmentation project in intra-operative ultrasound, improving Dice by 5–10%
-  * Developed novel conformal-based uncertainty quantification for semantic segmentation
+  * Led glioma segmentation project in intra-operative ultrasound, improving the Dice score by 5–10% compared to the previous SOTA
+  * Developed novel uncertainty quantification approach for semantic segmentation, based on conformal prediction
 
 * **Research Assistant**
 
   * Endocrine and Metabolic Research Institute (EMRI), Tehran University of Medical Sciences, 2021 – 2023, Tehran
-  * Authored two clinical studies using biostatistics and Python/SPSS
+  * Authored two clinical studies
 
 # Publications
 
@@ -89,10 +89,10 @@ Google Scholar: [https://scholar.google.com/citations?user=Z3xTClQAAAAJ\&hl=en](
 
 # Languages
 
-* English: Full professional proficiency (C2)
+* English: Full professional proficiency
 * Persian: Native
 * Kurdish: Native
-* German: Novice (A2)
+* German: Novice
 
 # References
 
