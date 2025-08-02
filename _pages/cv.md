@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Amir M. Vahdani, MD
+# Amir M. Vahdani, MD
 Tehran
 Email: [a.m.vahdani@gmail.com](mailto:a.m.vahdani@gmail.com) • Phone: +98 918 648 8454
 Website: [https://amirv97.github.io](https://amirv97.github.io)
@@ -17,17 +17,17 @@ LinkedIn: [https://www.linkedin.com/in/amir-m-vahdani-0847991a7/](https://www.li
 GitHub: [https://github.com/amirv97](https://github.com/amirv97)
 Google Scholar: [https://scholar.google.com/citations?user=Z3xTClQAAAAJ\&hl=en](https://scholar.google.com/citations?user=Z3xTClQAAAAJ&hl=en)
 
-# Summary
+## Summary
 
 * I am a machine-learning developer and medical researcher with 2+ years of experience applying AI-powered solutions to biomedical problems.
 * Led projects on medical image segmentation, object detection, and classification across diverse modalities.
 * MD graduate from Iran’s top medical university, combining clinical insight with technical expertise.
 
-# Education
+## Education
 
 * **Doctor of Medicine**, Tehran University of Medical Sciences, 2015 – 2023, Tehran
 
-# Experience
+## Experience
 
 * **Research Assistant (Remote collaboration)**
 
@@ -50,7 +50,7 @@ Google Scholar: [https://scholar.google.com/citations?user=Z3xTClQAAAAJ\&hl=en](
   * Endocrine and Metabolic Research Institute (EMRI), Tehran University of Medical Sciences, 2021 – 2023, Tehran
   * Authored two clinical studies
 
-# Publications
+## Publications
 
 1. Vahdani AM, Shariatnia M, Rajpurkar P, Pareek A. *Towards trustworthy artificial intelligence in musculoskeletal medicine: A narrative review on uncertainty quantification*. **Knee Surgery, Sports Traumatology, Arthroscopy**. 2025-07-28. DOI: [10.1002/ksa.12737](https://esskajournals.onlinelibrary.wiley.com/doi/10.1002/ksa.12737)
 2. Nayebirad S, Hassanzadeh A, **Vahdani AM**, et al. *Comparison of machine learning models with conventional statistical methods for prediction of percutaneous coronary intervention outcomes: a systematic review and meta-analysis*. **BMC Cardiovascular Disorders**. 2025-04-23. DOI: [10.1186/s12872-025-04746-0](https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-025-04746-0)
@@ -60,7 +60,7 @@ Google Scholar: [https://scholar.google.com/citations?user=Z3xTClQAAAAJ\&hl=en](
 6. Aalaa M, **Vahdani AM**, Tehrani MM, et al. *Epidemiological Insights into Diabetic Foot Amputation and its Correlates: A Provincial Study*. **Clinical Medicine Insights: Endocrinology and Diabetes**. 2024-01-30. DOI: [10.1177/11795514241227618](https://journals.sagepub.com/doi/10.1177/11795514241227618)
 7. **Vahdani AM**, Sanjari M, Fahimfar N, et al. *Assessment of quality of life and its affecting factors in osteosarcopenic individuals in the Iranian older adult population: Bushehr Elderly Health (BEH) program*. **Osteoporosis and Sarcopenia**. 2023-12-21. DOI: [10.1016/j.afos.2023.12.002](https://www.sciencedirect.com/science/article/pii/S2468025723000853)
 
-# Skills
+## Skills
 
 * **Programming & Platforms**
 
@@ -81,20 +81,20 @@ Google Scholar: [https://scholar.google.com/citations?user=Z3xTClQAAAAJ\&hl=en](
 
   * Matplotlib/Plotly, LaTeX
 
-# Awards
+## Awards
 
 * **Iran Biology Olympiad Gold Medal** (2014)
 
   * Placed 4th in nation out of \~39 000 participants
 
-# Languages
+## Languages
 
 * English: Full professional proficiency
 * Persian: Native
 * Kurdish: Native
 * German: Novice
 
-# References
+## References
 
 * **Ayoosh Pareek, M.D.**
   Medical Director of AI, Hospital for Special Surgery (HSS), New York, NY

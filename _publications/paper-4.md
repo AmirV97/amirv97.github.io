@@ -7,7 +7,7 @@ excerpt: 'This paper is about improving the <i>coverage</i> and <i>efficiency</i
 date: 2024-10-07
 venue: 'Journal of Imaging Informatics in Medicine'
 paperurl: 'https://doi.org/10.1007/s10278-024-01286-5'
-citation: '<b>A.M. Vahdani </b, S. Faghani, <i>Deep Conformal Supervision: Leveraging Intermediate Features for Robust Uncertainty Quantification</i>, J Digit Imaging. Inform. Med. (2024). https://doi.org/10.1007/s10278-024-01286-5.'
+citation: '<b>A.M. Vahdani </b, S. Faghani, <i>Deep Conformal Supervision: Leveraging Intermediate Features for Robust Uncertainty Quantification</i>, J Digit Imaging. Inform. Med. (2024). https://doi.org/10.1007/s10278-024-01286-5.
+'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<!-- add desc. here -->
