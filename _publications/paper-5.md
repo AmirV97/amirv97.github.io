@@ -7,7 +7,7 @@ excerpt: 'This paper extensively analyzes prescription patterns for antihypergly
 date: 2025-03-26
 venue: 'Diabetes Research and Clinical Practice'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S0168822725000920'
-citation: '[1] M. Rezaee, M.M. Nasehi, Z. Aminzade, H. Karami, <b>A.M. Vahdani</b>, R. Daroudi, M. Effatpanah, L. Ghamkhar, M. Heidari-Foroozan, M. Arab, Z. Shahali, R. Mehrizi,<i> Prescription patterns and the cost of antihyperglycemic drugs in patients with diabetes mellitus in Iran from 2014 to 2019</i>, Diabetes Research and Clinical Practice (2025) 112078. https://doi.org/10.1016/j.diabres.2025.112078.
+citation: '[1] M. Rezaee, M.M. Nasehi, Z. Aminzade, H. Karami, <b>A.M. Vahdani</b>, R. Daroudi, M. Effatpanah, L. Ghamkhar, M. Heidari-Foroozan, M. Arab, Z. Shahali, R. Mehrizi,<i>Prescription patterns and the cost of antihyperglycemic drugs in patients with diabetes mellitus in Iran from 2014 to 2019</i>, Diabetes Research and Clinical Practice (2025) 112078. https://doi.org/10.1016/j.diabres.2025.112078.
 '
 ---
 
